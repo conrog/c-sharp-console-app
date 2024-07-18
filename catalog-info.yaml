@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: teleprompter
+  description: C# Teleprompter app
+spec:
+  type: library
+  lifecycle: experimental
+  owner: conrog
